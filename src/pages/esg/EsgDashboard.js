@@ -402,7 +402,8 @@ export default function EsgDashboard() {
                     "IN-UP",
                   ]}
                   enableZoom={false}
-                  className="ht-400 mb-4"
+                  // className="ht-400 mb-4"
+                      style={{ height: "400px" }}
                 />
 
                 {/* <Table className="table-one">
